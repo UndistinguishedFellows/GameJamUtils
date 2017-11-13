@@ -1,6 +1,6 @@
 # GameJamUtils
 
-## Interesting videos
+## Interesting videos & repos
 
 * Maths:  
   * [Vectors](https://www.youtube.com/watch?v=wXI9_olSrqo&t=117s)  
@@ -28,7 +28,7 @@
   * [Dialogue system](https://www.youtube.com/watch?v=_nRzoTzeyxU)  
   * [Option menu](https://www.youtube.com/watch?v=-2Z7UzhYyTA)  
   * [Text popup](https://www.youtube.com/watch?v=fbUOG7f3jq8)  
-  * [Other popup floating text](https://github.com/Josef212/PopupText)  
+  * [Other popup floating text (__Repo__)](https://github.com/Josef212/PopupText)  
   * [UI OnMouseHover](https://www.youtube.com/watch?v=5BobLzmqhNE&t=684s)  
   * [Multiplayer style scoreboard](https://www.youtube.com/watch?v=rL36b6lo4-k&t=299s)  
   * [Zelda style health](https://www.youtube.com/watch?v=-z-KLXPPGmg)
